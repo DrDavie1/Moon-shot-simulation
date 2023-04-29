@@ -4,11 +4,11 @@
 
 PROGRAM CONTENTS:
 
-SETUP ( Line: 44-69 )
+- SETUP ( Line: 44-69 )
     - Importing libraries
     - Setting text sizes
 
-MAIN FUNCTIONS ( Line: 70-190 )
+- MAIN FUNCTIONS ( Line: 70-190 )
     - RK4
     - Euler
     - Analytical (Circular orbit only)
