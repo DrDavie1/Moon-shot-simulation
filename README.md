@@ -1,5 +1,5 @@
 
-# Moonshot Simulation
+# Moonshot Simulation ☾
 
 This program uses the fourth order runge-kutta method to compute and plot a variety of orbits, the various options are given below. For details on the results and numerical method please read the report. 
 
