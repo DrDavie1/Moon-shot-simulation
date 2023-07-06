@@ -31,6 +31,8 @@ This program uses the fourth order runge-kutta method to compute and plot a vari
 
 ## <a id="NMC" href="#NMC">Numerical Method Comparison</a>
 
+<img src="https://github.com/DrDavie1/moon-shot-simulation/blob/main/Media/Compare.png" width="50%" height="50%">
+
 
 
 
